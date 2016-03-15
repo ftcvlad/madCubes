@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=greenArea\ x\ y\ dx\ dy\ red\ green\ blue\ alpha\ parabolaMode
+comment0.target=magicBox(java.awt.geom.Area,\ double,\ double,\ double,\ double,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ doMagicBoxStuff()
+numComments=2
